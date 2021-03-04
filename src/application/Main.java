@@ -76,7 +76,7 @@ public class Main extends Application {
 				popupWindow.setScene(popupWindowScene);
 				popupWindow.show();
 
-				/*Stage popupWindow = new Stage();
+				Stage popupWindow = new Stage();
 				popupWindow.initModality(Modality.APPLICATION_MODAL);
 				popupWindow.initOwner(primaryStage);
 				FlowPane flowPane = new FlowPane();
@@ -98,7 +98,7 @@ public class Main extends Application {
 				flowPane.getChildren().addAll(comboSortBox, submitButton);
 				Scene popupWindowScene = new Scene(flowPane, 500, 200);
 				popupWindow.setScene(popupWindowScene);
-				popupWindow.show();*/
+				popupWindow.show();
 			});
 
 			vBox.getChildren().addAll(chooseFileLabel, chooseFileButton, changeFileButton);
