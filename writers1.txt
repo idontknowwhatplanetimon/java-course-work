@@ -1,0 +1,5 @@
+2 Dante 1265 Italy
+4 Shakespeare 1564 England
+1 Shevchenko 1814 Ukraine
+3 Tolstoy 1828 Russia
+5 Schedrik 1999 Ukraine
